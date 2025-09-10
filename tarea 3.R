@@ -77,6 +77,3 @@ p <- ggplot(data_sub, aes(x = Species, y = Petal.Length)) +
        y = "Petal.Length (cm)", x = "Species") +
   theme_minimal()
 print(p)
-
-
-
